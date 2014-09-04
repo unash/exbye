@@ -1,0 +1,4 @@
+platform :ios
+target "demo_framework" do
+pod 'demo_framework_root', :path => '~/WorkSpace/demo_ios/demo_framework_root'
+end
